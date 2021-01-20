@@ -119,29 +119,29 @@
 
  - 멤버등록 후 관리자 알림 발송
 
-
+![관리자일림발송](https://user-images.githubusercontent.com/39254844/105133465-2c04c500-5b30-11eb-9044-60d0023b3041.png)
 
  - 쿠폰발행 후 멤버 조회
 
-
+![멤버재조회](https://user-images.githubusercontent.com/39254844/105133629-6c644300-5b30-11eb-9af5-4cc74db8c4f2.png)
 
  - 멤버탈퇴
 
-
+![멤버탈퇴](https://user-images.githubusercontent.com/39254844/105133757-9ddd0e80-5b30-11eb-9e94-ccfab7a22245.png)
 
  - 멤버탈퇴 시 쿠폰발행 취소 반영
 
-![image](https://user-images.githubusercontent.com/75401920/105002401-95270280-5a74-11eb-89c9-069db87220e6.png)
+![쿠폰취소반영](https://user-images.githubusercontent.com/39254844/105133933-eac0e500-5b30-11eb-8ccb-99b800f8303b.png)
 
 
 2. 마이페이지 조회
 
-![image](https://user-images.githubusercontent.com/75401920/105002605-e8995080-5a74-11eb-99ad-15cdb20324ad.png)
+![마이페이지최종조회](https://user-images.githubusercontent.com/39254844/105134011-117f1b80-5b31-11eb-9167-4c63a193f472.png)
 
 
 3. 쿠폰취소 서비스 장애 시 멤버탈퇴 불가
 
-![image](https://user-images.githubusercontent.com/75401920/105002912-52b1f580-5a75-11eb-8ce0-b661fbbcc1d3.png)
+
 
 
 
