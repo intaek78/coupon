@@ -152,12 +152,12 @@
 product 상품 등록 
  - LoadBalanced로 노출된 퍼블릭IP로 상품등록 API 호출
 
-![image](https://user-images.githubusercontent.com/75401920/105001534-42008000-5a73-11eb-8ab7-c955745e7703.png)
+![퍼블릭ip노출 및 api호출](https://user-images.githubusercontent.com/39254844/105145768-87d84980-5b42-11eb-834a-6defac2ebaf0.png)
 
 
 애져에 배포되어 있는 상황 조회 kubectl get all
 
-![image](https://user-images.githubusercontent.com/75401920/105000728-06b18180-5a72-11eb-8609-e527c48f7060.png)
+![애저배포서비스](https://user-images.githubusercontent.com/39254844/105146002-ca018b00-5b42-11eb-82e0-df72af86ce43.png)
 
 
 
