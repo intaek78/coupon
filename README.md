@@ -179,11 +179,11 @@ product 상품 등록
 
  - AutoScale 적용된 모습
 
-![image](https://user-images.githubusercontent.com/75401920/105006642-4714fd80-5a7a-11eb-8424-aa2dede45666.png)
+![오토스케일러적용화면](https://user-images.githubusercontent.com/39254844/105151084-e0124a00-5b48-11eb-813f-f295852eceb2.png)
 
- - AutoScale로  order pod 개수가 증가함
+ - AutoScale로  member pod 개수가 증가함
 
-![image](https://user-images.githubusercontent.com/75401920/105006308-cf46d300-5a79-11eb-96db-77d865c9bfe9.png)
+![오토스케일러적용후증가된pod](https://user-images.githubusercontent.com/39254844/105152119-21efc000-5b4a-11eb-8d60-a27c8e18ba1e.png)
 
 
 9. Readness Proobe
