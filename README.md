@@ -18,14 +18,10 @@
      3. Correlation
      4. Req/Res
   - [운영](#운영)
-     5. Gateway
-     
-     6. Deploy
-     
-     7. CB
-     
-     8. HPA
-     
+     5. Gateway     
+     6. Deploy     
+     7. CB     
+     8. HPA     
      9. Readiness
      
 
