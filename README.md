@@ -171,7 +171,7 @@ product 상품 등록
    
 ![데이티네이션룰추가_쿠폰](https://user-images.githubusercontent.com/39254844/105147357-6ed09800-5b44-11eb-9df4-0db0eab82856.png)
 
- - Istio 적용 후 seige 실행 시 약 52%정도 확률로 CB가 열려서 처리됨
+ - Istio 적용 후 seige 실행 시 약 50%정도 확률로 CB가 열려서 처리됨
 
 ![circuit breaker적용후](https://user-images.githubusercontent.com/39254844/105181047-a6543a00-5b6e-11eb-9614-b78a4a065556.png)
 
