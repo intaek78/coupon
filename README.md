@@ -58,7 +58,8 @@
 
 
 ### 완성된 1차 모형
-![image](https://user-images.githubusercontent.com/75401920/104998076-f9929380-5a6d-11eb-8ac9-1ba95cea971f.png)
+![이벤트스토밍-쿠폰](https://user-images.githubusercontent.com/39254844/105127295-ed690d80-5b23-11eb-9f6f-bfce69390ba2.png)
+
 
     - View Model 추가
 
