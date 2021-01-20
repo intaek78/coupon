@@ -65,7 +65,7 @@
 
 ### 1차 완성본에 대한 기능적/비기능적 요구사항을 커버하는지 검증
 
-![image](https://user-images.githubusercontent.com/75401920/104998395-7b82bc80-5a6e-11eb-905f-1a3675837500.png)
+![흐름1](https://user-images.githubusercontent.com/39254844/105127704-c19a5780-5b24-11eb-804f-d16be904a609.png)
 
     - 고객이 상품을 선택하여 주문한다 (ok)
     - 주문하면 결제가 동시에 이뤄진다. (ok)
@@ -73,12 +73,14 @@
     - 결제가 이뤄지면 상품재고가 감소한다. (ok)
     - 배송이 요청되고 배송이 시작되면 주문상태가 배송시작으로 변경된다. (ok)
 
-![image](https://user-images.githubusercontent.com/75401920/104998646-ecc26f80-5a6e-11eb-88a2-6ff3c1eaf7f6.png)
+![흐름2](https://user-images.githubusercontent.com/39254844/105127771-de368f80-5b24-11eb-9636-0f8d16ed4b73.png)
 
     - 고객이 주문을 취소할 수 있다 (ok)
     - 주문이 취소되면 결제가 취소된다 (ok)
     - 결제가 취소되면 배송이 취소된다. (ok)
     - 배송이 취소되면 주문상태가 배송취소로 변경된다. (ok)
+    
+![흐름3](https://user-images.githubusercontent.com/39254844/105127807-f3abb980-5b24-11eb-81e9-d56ef64922a0.png)
 
 
 
