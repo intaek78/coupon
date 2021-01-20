@@ -113,11 +113,11 @@
 
 ![멤버등록](https://user-images.githubusercontent.com/39254844/105129334-27d4a980-5b28-11eb-84ed-81e681225e2d.png)
 
- - 주문 등록 후 주문내역 조회 시 배송상태 변경됨 
+ - 멤버 등록 쿠폰 발행 
 
-![image](https://user-images.githubusercontent.com/75401920/105001784-a3c0ea00-5a73-11eb-9c83-1d504502bca3.png)
+![쿠폰등록](https://user-images.githubusercontent.com/39254844/105129570-b47f6780-5b28-11eb-88c1-9f986f464e89.png)
 
- - 주문 등록 후 결제 내역 조회
+ - 쿠폰 발행 후 멤버 정보 조회
 
 ![image](https://user-images.githubusercontent.com/75401920/105001881-c81cc680-5a73-11eb-8b94-c25d03309a84.png)
 
