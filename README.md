@@ -113,29 +113,25 @@
 
 ![멤버등록](https://user-images.githubusercontent.com/39254844/105129334-27d4a980-5b28-11eb-84ed-81e681225e2d.png)
 
- - 멤버 등록 쿠폰 발행 
+ - 멤버 등록 후 쿠폰 발행 
 
 ![쿠폰등록](https://user-images.githubusercontent.com/39254844/105129570-b47f6780-5b28-11eb-88c1-9f986f464e89.png)
 
- - 쿠폰 발행 후 멤버 정보 조회
+ - 멤버등록 후 관리자 알림 발송
 
-![image](https://user-images.githubusercontent.com/75401920/105001881-c81cc680-5a73-11eb-8b94-c25d03309a84.png)
 
- - 재고변경
 
-![image](https://user-images.githubusercontent.com/75401920/105002205-3e212d80-5a74-11eb-9d3a-469df1f27d49.png)
+ - 쿠폰발행 후 멤버 조회
 
- - 주문취소
 
-![image](https://user-images.githubusercontent.com/75401920/105002335-6dd03580-5a74-11eb-860d-66d4062bd18f.png)
 
- - 주문취소 시 결제 취소 반영됨
+ - 멤버탈퇴
+
+
+
+ - 멤버탈퇴 시 쿠폰발행 취소 반영
 
 ![image](https://user-images.githubusercontent.com/75401920/105002401-95270280-5a74-11eb-89c9-069db87220e6.png)
-
- - 결제취소시 배송 취소
- 
-![image](https://user-images.githubusercontent.com/75401920/105002466-acfe8680-5a74-11eb-91ba-bc04509a8b10.png)
 
 
 2. 마이페이지 조회
@@ -143,7 +139,7 @@
 ![image](https://user-images.githubusercontent.com/75401920/105002605-e8995080-5a74-11eb-99ad-15cdb20324ad.png)
 
 
-3. 결제서비스 장애 시 주문 불가
+3. 쿠폰취소 서비스 장애 시 멤버탈퇴 불가
 
 ![image](https://user-images.githubusercontent.com/75401920/105002912-52b1f580-5a75-11eb-8ce0-b661fbbcc1d3.png)
 
