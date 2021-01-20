@@ -150,7 +150,7 @@
 5.6 Gateway, Deploy
 
 product 상품 등록 
- - LoadBalanced로 노출된 퍼블릭IP로 상품등록 API 호출
+ - LoadBalanced로 노출된 퍼블릭IP로 멤버조회 API 호출
 
 ![퍼블릭ip노출 및 api호출](https://user-images.githubusercontent.com/39254844/105145768-87d84980-5b42-11eb-834a-6defac2ebaf0.png)
 
