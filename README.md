@@ -163,7 +163,7 @@ product 상품 등록
 
 7. Istio 적용 캡쳐
 
-  - Istio테스트를 위해서 coupon에 sleep 추가
+  - Istio테스트를 위해서 cancellation에 sleep 추가
   
 ![슬립추가](https://user-images.githubusercontent.com/39254844/105147123-14cfd280-5b44-11eb-884b-646c336f8e24.png)
 
@@ -171,9 +171,9 @@ product 상품 등록
    
 ![데이티네이션룰추가_쿠폰](https://user-images.githubusercontent.com/39254844/105147357-6ed09800-5b44-11eb-9df4-0db0eab82856.png)
 
- - Istio 적용 후 seige 실행 시 대략 50%정도 확률로 CB가 열려서 처리됨
+ - Istio 적용 후 seige 실행 시 약 52%정도 확률로 CB가 열려서 처리됨
 
-![image](https://user-images.githubusercontent.com/75401920/105006958-b2f76600-5a7a-11eb-99f3-c8b81a4ec270.png)
+![circuit breaker적용후](https://user-images.githubusercontent.com/39254844/105181047-a6543a00-5b6e-11eb-9614-b78a4a065556.png)
 
 8. AutoScale
 
