@@ -188,12 +188,12 @@ product 상품 등록
 
 9. Readness Proobe
  
-  - Readiness 적용 전: 소스배포시 500 오류 발생
+  - Readiness 적용 전: 소스배포시 500 오류 발생(로드 발생 중 이미지 교체)
   
-![image](https://user-images.githubusercontent.com/75401920/105004548-7d04b280-5a77-11eb-95cb-d5fe19a40557.png)
+![readiness적용전](https://user-images.githubusercontent.com/39254844/105154220-ab07f680-5b4c-11eb-8f54-722a6cca3844.png)
 
 
   - 적용 후: 소스배포시 100% 수행됨
 
-![image](https://user-images.githubusercontent.com/75401920/105004912-f0a6bf80-5a77-11eb-88ee-f0bcd8f67f45.png)
+![readiness적용후](https://user-images.githubusercontent.com/39254844/105155011-76e10580-5b4d-11eb-9dfa-b95632445126.png)
 
