@@ -163,13 +163,13 @@ product 상품 등록
 
 7. Istio 적용 캡쳐
 
-  - Istio테스트를 위해서 Payment에 sleep 추가
+  - Istio테스트를 위해서 coupon에 sleep 추가
   
-![image](https://user-images.githubusercontent.com/75401920/105005616-e89b4f80-5a78-11eb-82cb-de53e5881e3f.png)
+![슬립추가](https://user-images.githubusercontent.com/39254844/105147123-14cfd280-5b44-11eb-884b-646c336f8e24.png)
 
- - payments 서비스에 Istio 적용
+ - coupon 서비스에 Istio 적용
    
-![image](https://user-images.githubusercontent.com/75401920/105006822-7f1c4080-5a7a-11eb-9191-db35233773d3.png)
+![데이티네이션룰추가_쿠폰](https://user-images.githubusercontent.com/39254844/105147357-6ed09800-5b44-11eb-9df4-0db0eab82856.png)
 
  - Istio 적용 후 seige 실행 시 대략 50%정도 확률로 CB가 열려서 처리됨
 
